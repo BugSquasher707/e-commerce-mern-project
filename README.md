@@ -1,1 +1,1 @@
-# e-commerce-mern-project
+# E-Commerce-MERN-Project
